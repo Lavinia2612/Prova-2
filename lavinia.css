@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  font-size: 80px;
+  background-color: green;
+}
+
+td {
+  text-align: center;
+  font-size: 150px;
+  background-color: rgb(180, 49, 169);
+}
+
+.btn-group {
+  height: 50px;
+}
+
+.btn {
+  font-size: 30px;
+}
+marquee {
+  text-align: center;
+  font-size: 80px;
+  background-color: rgb(172, 36, 36);
+}
+html {
+  background-color: rgb(155, 155, 240);
+}
